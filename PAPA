@@ -11,6 +11,9 @@ https://m3u-editor.com/serve/televitolibre/497955334.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="CanalesChilenos", MEGANOTICIAS
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="CanalesChilenos", Canal 13 | Santiago
+https://marine2.miplay.cl/c13/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6UoixA8.png" group-title="CanalesChilenos", TV CHILE | Santiago 
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
@@ -22,6 +25,9 @@ https://unlimited10-cl.dps.live/lared/lared.smil/lared/livestream0/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KVKXRwQ.png" group-title="CanalesChilenos", 13 Cultura
 https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3lfGaqZ.png" group-title="CanalesChilenos", 13 Prime | Chile
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="CanalesChilenos", UCV  | Valparaíso
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
@@ -40,6 +46,12 @@ https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4btaBc.png" group-title="CanalesChilenos", Canal 74  | Placilla
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YStIew0.png" group-title="CanalesChilenos", TV Costa | San Antonio
+https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="CanalesChilenos", Sony Comedias  | Estados Unidos
+https://spt-comedias-1-us.samsung.wurl.tv/1200.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjBqieO.png" group-title="CanalesChilenos", Chile Channel | Santiago
 https://v2.tustreaming.cl/chilechannel/index.m3u8
