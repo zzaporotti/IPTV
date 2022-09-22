@@ -26,6 +26,9 @@ https://unlimited10-cl.dps.live/lared/lared.smil/lared/livestream0/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KVKXRwQ.png" group-title="CanalesChilenos", 13 Cultura
 https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dST6WNx.png" group-title="CanalesChilenos", Cultura 24  | Lima
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3lfGaqZ.png" group-title="CanalesChilenos", 13 Prime | Chile
 https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 
