@@ -41,6 +41,9 @@ https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="sQ3qoc8.png" group-title="CanalesChilenos", SANTIAGO TV
 https://stv.janus.cl/playlist/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NiieSgS.png" group-title="CanalesChilenos", Universidad de Chile TV | Santiago
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSHiAWz.png" group-title="CanalesChilenos", Canal VTV | Quillota
 https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 
