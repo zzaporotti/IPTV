@@ -71,6 +71,9 @@ http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosConVideo", BIO BIO TV
 https://pantera1-100GB-cl-movistar.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
 
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosConVideo", RADIO FESTIVAL
+https://stream.festival.cl/1
+
 #EXTINF:-1 tvg-logo="LSRwNhH.png" group-title="RadiosConVideo", Pudahuel | Providencia
 https://unlimited6-cl.dps.live/pudahueltv/pudahueltv.smil/pudahueltv/livestream3/chunks.m3u8
 
@@ -104,6 +107,9 @@ http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Bio Bio Santiago (99.7 FM)
 http://unlimited11-cl.dps.live/biobiosantiago/aac/icecast.audio
+
+#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", RADIO FESTIVAL
+https://stream.festival.cl/1
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Colo-colo Santiago
 http://audio2.tustreaming.cl:7040/stream
