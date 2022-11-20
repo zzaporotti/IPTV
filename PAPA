@@ -32,9 +32,6 @@ https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5h9amML.png" group-title="CanalesChilenos", Megaplus  | Santiago
 https://marine2.miplay.cl/megaplus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qHFAu1m.png" group-title="CanalesChilenos", Suyai TV  | Chile
-https://6362ca6f1fc28.streamlock.net/nfgumujmxv/nfgumujmxv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="CanalesChilenos", UCV  | Valparaíso
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
