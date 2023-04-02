@@ -3,16 +3,16 @@ EXTM3U
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="CanalesChilenos", Tele Trece Noticias 
-https://m3u-editor.com/serve/televitolibre/499994738.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dWGdEZ2.png" group-title="CanalesChilenos", Chilevisión Noticias
-https://m3u-editor.com/serve/televitolibre/497955334.m3u8
+https://m3u-editor.com/serve/televito/797182894.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="CanalesChilenos", MEGANOTICIAS
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="CanalesChilenos", CANAL 13
 https://marine2.miplay.cl/c13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6UoixA8.png" group-title="CanalesChilenos", TV CHILE | Santiago 
+https://m3u-editor.com/serve/televito/797182887.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6UoixA8.png" group-title="CanalesChilenos", TV CHILE | Santiago 
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
