@@ -3,7 +3,7 @@ EXTM3U
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="CanalesChilenos", Tele Trece Noticias 
-https://m3u-editor.com/serve/televito/797182894.m3u8
+https://m3u-editor.com/serve/televito/856142207.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="CanalesChilenos", Chilevision Noticias 
 https://m3u-editor.com/serve/televito/856142219.m3u8
@@ -15,10 +15,10 @@ http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 https://marine2.miplay.cl/c13/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6UoixA8.png" group-title="CanalesChilenos", TV CHILE | Santiago 
-https://m3u-editor.com/serve/televito/797182887.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6UoixA8.png" group-title="CanalesChilenos", TV CHILE | Santiago 
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/r6GwKNS.png" group-title="CanalesChilenos", Chilevisión | HD | Santiago
+https://m3u-editor.com/serve/televito/856142204.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="CanalesChilenos", Mega | Santiago 
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
@@ -30,7 +30,7 @@ https://unlimited10-cl.dps.live/lared/lared.smil/lared/livestream0/chunks.m3u8
 https://m3u-editor.com/serve/televito/856142211.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3lfGaqZ.png" group-title="CanalesChilenos", 13 Prime | Chile
-https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
+https://m3u-editor.com/serve/televito/856142209.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5h9amML.png" group-title="CanalesChilenos", Megaplus  | Santiago
 https://marine2.miplay.cl/megaplus/playlist.m3u8
@@ -39,9 +39,6 @@ https://marine2.miplay.cl/megaplus/playlist.m3u8
 https://m3u-editor.com/serve/televito/856143180.m3u8
 
 #EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="CanalesChilenos", TV Animales 2
-https://m3u-editor.com/serve/televito/856143181.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="CanalesChilenosCanalesChilenos", Pluto TV Animales 2
 https://m3u-editor.com/serve/televito/856143181.m3u8
 
 #EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="CanalesChilenos", Pluto TV Naturaleza
@@ -67,15 +64,6 @@ https://m3u-editor.com/serve/televito/856143260.m3u8
 
 #EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="CanalesChilenos", Pluto TV Cine Clásico España
 https://m3u-editor.com/serve/televito/856143192.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="CanalesChilenos", Pluto TV Cine Clásico Latinoamérica
-https://m3u-editor.com/serve/televito/856143193.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="CanalesChilenos", Pluto TV Deportes
-https://m3u-editor.com/serve/televito/856143208.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="CanalesChilenos", Pluto TV Deportes 2
-https://m3u-editor.com/serve/televito/856143209.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="CanalesChilenos", UCV  | Valparaíso
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
