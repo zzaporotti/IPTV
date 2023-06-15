@@ -159,6 +159,12 @@ http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
 #EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Bio Bio Santiago (99.7 FM)
 http://unlimited11-cl.dps.live/biobiosantiago/aac/icecast.audio
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/koqFkUU.jpg" group-title="RadiosChilenas", El Conquistador (91.3 FM Santiago)
+https://m3u-editor.com/serve/televito/856142956.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HkJznx3.png" group-title="RadiosChilenas", Zonar (104.1 FM Villa Prat)
+https://m3u-editor.com/serve/televito/856143010.m3u8
+
 #EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", RADIO FESTIVAL
 https://stream.festival.cl/1
 
@@ -281,10 +287,7 @@ http://sonando.us.digitalproserver.com/ucvradio
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Romantica (104.1 FM)
 http://unlimited11-cl.dps.live/romantica/mp3/icecast.audio
- 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Sonar (105.3)
-https://us-b4-p-e-az1-audio.cdn.mdstrm.com/live-audio-aw/5c915724519bce27671c4d15/playlist.m3u8
- 
+
 #EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Radio Bio Bio Osorno (106.5 FM Osorno)
 https://unlimited3-cl.dps.live/biobioosorno/aac/icecast.audio
  
