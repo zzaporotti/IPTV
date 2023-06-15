@@ -120,7 +120,7 @@ https://pantera1-100gb-cl-movistar.dps.live/921tv/921tv.smil/921tv/livestream2/c
 http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosConVideo", BIO BIO TV
-https://pantera1-100GB-cl-movistar.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosConVideo", RADIO FESTIVAL
 https://stream.festival.cl/1
