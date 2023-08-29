@@ -114,7 +114,7 @@ https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/R7vbQU0.jpg" group-title="RadiosConVideo", Agricultura Video| (92.1 FM)
-https://unlimited2-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8
+https://pantera1-100gb-cl-movistar.dps.live/921tv/921tv.smil/playlist.m3u8
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosConVideo", Agricultura Radio
 http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
@@ -151,7 +151,7 @@ https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8
 http://i.imgur.com/VWctVbq.mp4
  
 #EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Agricultura VIDEO
-https://unlimited2-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8
+https://pantera1-100gb-cl-movistar.dps.live/921tv/921tv.smil/playlist.m3u8
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosChilenas", Agricultura Radio
 http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio
