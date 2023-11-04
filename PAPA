@@ -23,6 +23,11 @@ https://m3u-editor.com/serve/televito/856142204.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="CanalesChilenos", Mega | Santiago 
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="CanalesChilenos", Pluto TV Deportes2
+https://m3u-editor.com/serve/televito/856143208.m3u8
+#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="CanalesChilenos", Pluto TV Deportes
+https://m3u-editor.com/serve/televito/856143209.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="CanalesChilenos", La Red | Santiago
 https://unlimited10-cl.dps.live/lared/lared.smil/lared/livestream0/chunks.m3u8
 
