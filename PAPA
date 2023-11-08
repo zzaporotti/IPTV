@@ -2,6 +2,9 @@ EXTM3U
 #EXTINF:-1, tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="CanalesChilenos", TVN 24 PLAY
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="CanalesChilenos", Tele Trece Noticias-
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="CanalesChilenos", Tele Trece Noticias 
 https://m3u-editor.com/serve/televito/856142207.m3u8
 
