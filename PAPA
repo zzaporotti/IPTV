@@ -35,57 +35,8 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3lfGaqZ.png" group-title="CanalesChilenos", 13 Humor
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="CanalesChilenos", Pluto TV Deportes2
-https://m3u-editor.com/serve/televito/856143208.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="CanalesChilenos", Pluto TV Deportes
-https://m3u-editor.com/serve/televito/856143209.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5h9amML.png" group-title="CanalesChilenos", Megaplus  | Santiago
 https://marine2.miplay.cl/megaplus/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png" group-title="CanalesChilenos", Ciudadanos por el mundo
-https://m3u-editor.com/serve/televito/856143064.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="CanalesChilenos", Viajes
-https://m3u-editor.com/serve/televito/856143257.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png" group-title="CanalesChilenos", Viajes 2
-https://m3u-editor.com/serve/televito/856143258.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="CanalesChilenos", TV Animales
-https://m3u-editor.com/serve/televito/856143180.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="CanalesChilenos", TV Animales 2
-https://m3u-editor.com/serve/televito/856143181.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="CanalesChilenos", Naturaleza
-https://m3u-editor.com/serve/televito/856143235.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Ob4WeBH.png" group-title="CanalesChilenos", Love Nature
-https://m3u-editor.com/serve/televito/856143296.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/I8sxOa0.png" group-title="CanalesChilenos", Nature Time 
-https://m3u-editor.com/serve/televito/856143297.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="CanalesChilenos", Historia
-https://m3u-editor.com/serve/televito/856143217.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="CanalesChilenos, Historia 2
-https://m3u-editor.com/serve/televito/856143218.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" group-title="CanalesChilenos", Documentales
-https://m3u-editor.com/serve/televito/856143210.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" group-title="CanalesChilenos", Western
-https://m3u-editor.com/serve/televito/856143260.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/TvSDBGA.png" group-title="CanalesChilenos", OLD
-https://m3u-editor.com/serve/televito/856142333.m3u8
-
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="CanalesChilenos", Cine Clásico España
-https://m3u-editor.com/serve/televito/856143192.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="CanalesChilenos", UCV  | Valparaíso
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
