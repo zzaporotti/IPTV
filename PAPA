@@ -63,6 +63,9 @@ https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YStIew0.png" group-title="CanalesChilenos", TV Costa | San Antonio
 https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png" group-title="CanalesChilenos", La Chilena TV
+https://vdochile.com:3134/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjBqieO.png" group-title="CanalesChilenos", Chile Channel | Santiago
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
