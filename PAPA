@@ -20,14 +20,11 @@ https://marine2.miplay.cl/c13/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6UoixA8.png" group-title="CanalesChilenos", TV CHILE | Santiago 
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/r6GwKNS.png" group-title="CanalesChilenos", Chilevisión | HD | Santiago
-https://m3u-editor.com/serve/televito/856142204.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="CanalesChilenos", Mega | Santiago 
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="CanalesChilenos", La Red | Santiago
-https://unlimited10-cl.dps.live/lared/lared.smil/lared/livestream0/chunks.m3u8
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KVKXRwQ.png" group-title="CanalesChilenos", 13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
@@ -35,19 +32,15 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3lfGaqZ.png" group-title="CanalesChilenos", 13 Humor
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5h9amML.png" group-title="CanalesChilenos", Megaplus  | Santiago
-https://marine2.miplay.cl/megaplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1507_Chilevisual_Cultura.png" group-title="CanalesChilenos", Chilevisual Cultura
+https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="CanalesChilenos", UCV  | Valparaíso
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/27i6iYB.png" group-title="CanalesChilenos", UCV2 | Valparaíso
-https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Z6S3GQ.png" group-title="CanalesChilenos", TV+  | Valparaíso
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8qnDBFJ.png" group-title="CanalesChilenos", TV Más 2 | Valparaíso
-https://marine2.miplay.cl/tateti/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iUryzXB.png" group-title="CanalesChilenos", U Chile TV | Santiago
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
