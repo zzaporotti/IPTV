@@ -35,7 +35,6 @@ https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1507_Chilevisual_Cultura.png" group-title="CanalesChilenos", Chilevisual Cultura
 https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="CanalesChilenos", UCV  | Valparaíso
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
@@ -50,18 +49,6 @@ https://stv.janus.cl/playlist/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NiieSgS.png" group-title="CanalesChilenos", Universidad de Chile TV | Santiago
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSpzX1F.png" group-title="CanalesChilenos", TV Quinta Región | Valparaíso
-https://mediacpstreamchile.com:1936/8002/8002/chunklist_w1281292195.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lSHiAWz.png" group-title="CanalesChilenos", Canal VTV | Quillota
-https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r4btaBc.png" group-title="CanalesChilenos", Canal 74  | Placilla
-https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YStIew0.png" group-title="CanalesChilenos", TV Costa | San Antonio
-https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png" group-title="CanalesChilenos", La Chilena TV
 https://vdochile.com:3134/hybrid/play.m3u8
