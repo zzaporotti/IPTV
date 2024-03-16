@@ -56,6 +56,16 @@ https://vdochile.com:3134/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjBqieO.png" group-title="CanalesChilenos", Chile Channel | Santiago
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
+#EXTINF:-1 tvg-id="1123" tvg-name="Lollapalooza - Canal 1" tvg-logo="https://cdn.m3u.cl/logo/1123_Lollapalooza___Canal_1.png", Lollapalooza - Canal 1 ✪ | CL
+https://mdstrm.com/live-stream-playlist/65f0d2d11efc6f085c87a273.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1124" tvg-name="Lollapalooza - Canal 2" tvg-logo="https://cdn.m3u.cl/logo/1124_Lollapalooza___Canal_2.png", Lollapalooza - Canal 2 ✪ | CL
+https://mdstrm.com/live-stream-playlist/65f0d31910a75805249de6a1.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1569" tvg-name="Lollapalooza - Canal 3" tvg-logo="https://cdn.m3u.cl/logo/1569_Lollapalooza___Canal_3.png", Lollapalooza - Canal 3 ✪ | CL
+https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1, tvg-logo="https://i.imgur.com/R7vbQU0.jpg" group-title="RadiosConVideo", Agricultura Video| (92.1 FM)
 https://pantera1-100gb-cl-movistar.dps.live/921tv/921tv.smil/playlist.m3u8
 
