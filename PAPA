@@ -44,29 +44,23 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Z6S3GQ.png" group-title="CanalesChilenos", TV+  | Valparaíso
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iUryzXB.png" group-title="CanalesChilenos", U Chile TV | Santiago
-https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="sQ3qoc8.png" group-title="CanalesChilenos", SANTIAGO TV
-https://stv.janus.cl/playlist/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NiieSgS.png" group-title="CanalesChilenos", Universidad de Chile TV | Santiago
-https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png" group-title="CanalesChilenos", La Chilena TV
 https://vdochile.com:3134/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nomlIR3.png" group-title="CanalesChilenos", Animales
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=29513be5-f696-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mGCtmcX.png" group-title="CanalesChilenos", Historia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8836&deviceLon=-68.8141&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=16348462-ede5-11ea-ae94-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ghKDRik.png" group-title="CanalesChilenos", Naturaleza
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97de34fa-f695-11ea-abc9-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8pbvG92.png" group-title="CanalesChilenos", Deportes
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e7e0e926-f697-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjBqieO.png" group-title="CanalesChilenos", Chile Channel | Santiago
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-
-#EXTINF:-1 tvg-id="1123" tvg-name="Lollapalooza - Canal 1" tvg-logo="https://cdn.m3u.cl/logo/1123_Lollapalooza___Canal_1.png" group-title="Lollapalooza", Lollapalooza - Canal 1 ✪ | CL
-https://mdstrm.com/live-stream-playlist/65f0d2d11efc6f085c87a273.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1124" tvg-name="Lollapalooza - Canal 2" tvg-logo="https://cdn.m3u.cl/logo/1124_Lollapalooza___Canal_2.png" group-title="Lollapalooza", Lollapalooza - Canal 2 ✪ | CL
-https://mdstrm.com/live-stream-playlist/65f0d31910a75805249de6a1.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1569" tvg-name="Lollapalooza - Canal 3" tvg-logo="https://cdn.m3u.cl/logo/1569_Lollapalooza___Canal_3.png" group-title="Lollapalooza", Lollapalooza - Canal 3 ✪ | CL
-https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/R7vbQU0.jpg" group-title="RadiosConVideo", Agricultura Video| (92.1 FM)
 https://pantera1-100gb-cl-movistar.dps.live/921tv/921tv.smil/playlist.m3u8
