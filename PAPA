@@ -62,8 +62,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dOt2Jo2.png" group-title="CanalesChilenos", Mundo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=959&deviceId=5d8d103f031154a4172d262b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8pbvG92.png" group-title="CanalesChilenos", Deportes
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e7e0e926-f697-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6Myhfe.png" group-title="CanalesChilenos", Chilevision Deportes | HD 
+https://r.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjBqieO.png" group-title="CanalesChilenos", Chile Channel | Santiago
 https://v2.tustreaming.cl/chilechannel/index.m3u8
