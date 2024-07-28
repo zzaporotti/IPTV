@@ -11,6 +11,12 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/VSQogJt.png" group-title="CanalesChilenos", RT Español | Rusia
 https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MO7l6on.png" group-title="CanalesChilenos", Telesur | Venezuela
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NlvRfRT.png" group-title="CanalesChilenos", Promar Venezuela
+http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="CanalesChilenos", CANAL 13
 https://marine2.miplay.cl/c13/playlist.m3u8
 
