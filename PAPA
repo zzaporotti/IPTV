@@ -74,24 +74,6 @@ https://stream.festival.cl/1
 #EXTINF:-1 tvg-logo="LSRwNhH.png" group-title="RadiosConVideo", Pudahuel | Providencia
 https://unlimited6-cl.dps.live/pudahueltv/pudahueltv.smil/pudahueltv/livestream3/chunks.m3u8
 
-#EXTINF:-1, tvg-logo="1Ct0fSh.png" group-title="RadiosConVideo", Radio Camila TV
-https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8
- 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/TtrfkSG.png" group-title="RadiosConVideo", Radio Carolina (TV) | (99.3 FM)
-http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
- 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/BT7EmIh.png" group-title="RadiosConVideo", Infinita (TV) | (100.1 FM)
-http://unlimited6-cl.dps.live/infinitatv/infinitatv.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kffnZEj.png" group-title="RadiosConVideo", Radio Z | Las Condes
-https://unlimited6-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7sQUpIn.png" group-title="RadiosConVideo", Romántica TV|Ñuñoa
-http://unlimited6-cl.dps.live/romanticatv/romanticatv.smil/romanticatv/livestream1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vi9orzr.png" group-title="RadiosConVideo", Ruidos TV| Santiago
-https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8
- 
 
 #EXTINF:-1, radio="true" tvg-logo="fKByJrs.png" group-title="RadiosChilenas", -[COLOR red]RadiosChilenas[/COLOR]-
 http://i.imgur.com/VWctVbq.mp4
