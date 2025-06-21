@@ -18,9 +18,6 @@ https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
 https://live.presstv.ir/hls/hispantv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="CanalesChilenos", CANAL 13
-https://marine2.miplay.cl/c13/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ILZeBjW.png" group-title="CanalesChilenos", CANAL 13 2
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="CanalesChilenos", Mega | Santiago 
