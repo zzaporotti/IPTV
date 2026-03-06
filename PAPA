@@ -62,7 +62,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a417
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjBqieO.png" group-title="CanalesChilenos", Chile Channel | Santiago
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/R7vbQU0.jpg" group-title="RadiosConVideo", Agricultura Video| (92.1 FM)
+#EXTINF:-1, tvg-logo="https://i.imgur.com/R7vbQU0.jpg" group-title="RadiosConVideo", Agricultura Video 1 | (92.1 FM)
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/R7vbQU0.jpg" group-title="RadiosConVideo", Agricultura Video 2 | (92.1 FM)
 https://pantera1-100gb-cl-movistar.dps.live/921tv/921tv.smil/playlist.m3u8
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="RadiosConVideo", Agricultura Radio
