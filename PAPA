@@ -1,7 +1,4 @@
 EXTM3U
-#EXTINF:-1, tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="CanalesChilenos", TVN 24 PLAY
-http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-
 #EXTINF:-1, tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="CanalesChilenos", Tele Trece Noticias
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
@@ -25,6 +22,9 @@ https://m3u.cl/channel/c13.php?PlaylistM3UCL
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="CanalesChilenos", Mega | Santiago 
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="CanalesChilenos", VTV QUILLOTA
+https://pantera1-100gb-cl-movistar.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png" group-title="CanalesChilenos", T13 Radio
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
