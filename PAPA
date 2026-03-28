@@ -1,4 +1,7 @@
 EXTM3U
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xO40xQy.png" group-title="CanalesChilenos", 24 Horas 
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+
 #EXTINF:-1, tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="CanalesChilenos", Tele Trece Noticias
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
