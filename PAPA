@@ -23,6 +23,9 @@ https://m3u.cl/channel/c13.php?PlaylistM3UCL
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png" group-title="CanalesChilenos", Mega | Santiago 
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://www.girovisual.cl/Girovisual%20logo.png" group-title="CanalesChilenos", Girovisual Valparaíso
+https://pantera1-100gb-cl-movistar.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png" group-title="CanalesChilenos", T13 Radio
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
 
